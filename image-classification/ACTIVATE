@@ -1,0 +1,3 @@
+source activate dlnd-tf-lab
+
+jupyter noteboo
