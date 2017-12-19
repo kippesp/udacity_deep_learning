@@ -1,0 +1,2 @@
+conda install tensorflow-gpu=1.0.1
+conda install jupyter notebook pillow matplotlib  tqdm
